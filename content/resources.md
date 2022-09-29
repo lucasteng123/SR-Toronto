@@ -3,7 +3,7 @@
 *Useful for general lore and information*
 
 ## Books
-[Folder with all of the books](https://nextcloud.librije.lucasteng.ca/s/sLc47YLQDWkp7kH)
+[Folder with all of the books](#)
 
 *This has every book published this far. The pre-made characters are in the Core Book starting on Page 81.*
 
