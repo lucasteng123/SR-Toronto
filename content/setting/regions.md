@@ -13,7 +13,7 @@ In the Core, everything is about image and perception. Barbie docs and popup ‘
 
 Founded in 2031 the Rogerian Alchemical Research Institute is one of North America’s leading authorities on hermetic magic and the art of artificing. Built around a gothic revivalist mansion dating back to the early 20th century, FARI conducts research on practical applications of magic as well as the nature of mysterious 4th world artifacts unearthed up in the Canadian Shield. A number of the staff here are refugees from MIT&T and the Dunkelzahn Institute for Magical Research, both lost during the quarantine of Boston.
 
-During an altercation in the portlands in 2074 between [[Law Enforcement#Argus Security]] and the awakened, a catastrophic magic explosion occured, ripping apart both reality and the cyberspace in this area. An area of failed developments lies rotting, with abandoned vehicles, wrecks, and refuse from technological items that just ceased working one day. To this day, the matrix is essentially inaccessable from this region, and devices that enter very quickly cease to function. 
+During an altercation in the portlands in 2074 between [Argus Security](law) and the awakened, a catastrophic magic explosion occured, ripping apart both reality and the cyberspace in this area. An area of failed developments lies rotting, with abandoned vehicles, wrecks, and refuse from technological items that just ceased working one day. To this day, the matrix is essentially inaccessable from this region, and devices that enter very quickly cease to function. 
 
 
 ## Peel
