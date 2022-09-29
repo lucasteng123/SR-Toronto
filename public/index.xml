@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About </description>
+      <content>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+</content>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Corporations</title>
+      <link>/setting/corporations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/setting/corporations/</guid>
+      <description>Corporations are incredibly strong entites in Shadowrun, the most powerful given extraterritoriality (The ability to self-govern, and stay above the law of the territory in which they reside)</description>
+      <content>&lt;h2 id=&#34;ares&#34;&gt;Ares&lt;/h2&gt;
+&lt;p&gt;With their global headquarters in nearby Detroit, Toronto and its access to the Saint Lawrence is a valuable logistics asset for Ares. From their North American Distribution Facility in the Core, Ares’ Toronto operation coordinates the defense giant’s shipping operations across the western hemisphere. The local ops director, Felicia Koritz, has aligned herself with Arthur Vogel’s faction within the splintering mega, causing a great deal of strife between Toronto and Damien Knight’s stronghold in Detroit.&lt;/p&gt;
+&lt;p&gt;Ares’s private security firm Knight Errant held the Toronto police contract from 2058 to 2070. Knight Errant continues to operate a cybernetics proving ground in [[Regions#Durham]].&lt;/p&gt;
+&lt;h2 id=&#34;aztechnology&#34;&gt;Aztechnology&lt;/h2&gt;
+&lt;p&gt;Bandwagoning onto Shiawase’s Urban Ag initiative, Aztechnology’s presence in Toronto is most felt through their aggressive investing and buyouts of biotech startups and their construction of GroTowers across the northwest fringes of the sprawl. Aztech subsidiaries are also heavily involved in the city’s media business and low income housing developments in Peel and West York.&lt;/p&gt;
+&lt;h2 id=&#34;horizon&#34;&gt;Horizon&lt;/h2&gt;
+&lt;p&gt;The big daddy of media companies, Horizon has been digging deep into the Toronto entertainment scene in an attempt to uproot it and the smaller production houses propping it up to transplant back to their base in Los Angeles. When they’re not working on consolidating their media monopoly, Horizon is working on a number of urban development projects within the sprawl under the codename Project Babel.&lt;/p&gt;
+&lt;h2 id=&#34;shiawase&#34;&gt;Shiawase&lt;/h2&gt;
+&lt;p&gt;Investing early and digging deep, Shiawase has its tendrils all over the sprawl. Shiawase either owns or holds maintenance contracts for approximately 53% of the city power grid, as well as both the Pickering Fusion Plant. Shiawase has also invested heavily into the Toronto biotech industry including advances in urban agriculture and hydroponics as well as research into living clothes and building materials grown from proprietary gene modded plants.&lt;/p&gt;
+&lt;h2 id=&#34;wuxing&#34;&gt;Wuxing&lt;/h2&gt;
+&lt;p&gt;Limited mostly to operations around the Durham port area and their offices in the Core, Wuxing is currently looking to expand their operations within the city. As part of this effort, they’ve undergone a big PR push throughout the city, helping provide much needed public facilities in Chinatown and donating large sums of money to local policlubs and Awakened societies. So far the effort seems to have paid off, with Wuxing opening a magical research facility sponsored by the GTEC, FARI, and the Illuminates of the New Dawn, as well as a new partnership between the megacorporation and the Dominion Group’s financial division.&lt;/p&gt;
+&lt;h2 id=&#34;dominion-group&#34;&gt;Dominion Group&lt;/h2&gt;
+&lt;p&gt;Originally created out of a merger between the Toronto Dominion and CIBC banks, the Dominion Group is a Toronto based AA corp specializing in finance, matrix services, resource extraction, and consumer products. While they may not have the power and reach the AAA megas do, Toronto is their city. Aggressive and more willing to take short term losses for long term gain than most corps, the Dominion Group has been waging a campaign of economic warfare against Aztechnology’s matrix services division within the city while partnering with Wuxing and Ares to give it the AAA cred to deal with a suit through the Corporate Court.&lt;/p&gt;
+&lt;h2 id=&#34;argus-security&#34;&gt;Argus Security&lt;/h2&gt;
+&lt;p&gt;A Cincinnati based AA security firm, Argus currently holds the Toronto Metroplex Policing Contract. Easily distinguishable by their navy blue and silver uniforms and vehicles, Argus is heavily preferential to drones and automated security systems, allowing them to cut the total number of officers they employ compared to other policing companies like Lonestar and Knight Errant. Argus operates 82 police precincts across the sprawl, as well as officer training facilities in Peel and Hamilton.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Demographics</title>
+      <link>/setting/demographics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/setting/demographics/</guid>
+      <description>With a total population quickly closing on 11 million people, Toronto is one of the most populous metropolitan areas in North America. One only needs to walk down any busy street in the sprawl to appreciate just how diverse modern Toronto is; the sprawl is a melting pot of cultures from all over the world.</description>
+      <content>&lt;p&gt;With a total population quickly closing on 11 million people, Toronto is one of the most populous metropolitan areas in North America. One only needs to walk down any busy street in the sprawl to appreciate just how diverse modern Toronto is; the sprawl is a melting pot of cultures from all over the world.&lt;/p&gt;
+&lt;h2 id=&#34;languages-spoken-within-toronto&#34;&gt;Languages spoken within Toronto&lt;/h2&gt;
+&lt;p&gt;English 64%
+Cantonese 9%
+Aztlaner Spanish 5%
+French 5%
+Japanese 4%
+Mandarin 3%
+German 3%
+Tagalog 2%
+Urdu 1%
+Farsi 1%
+Tagalog 1%
+Russian 1%
+Cree &amp;lt;1%
+Ojibwe &amp;lt;1%&lt;/p&gt;
+&lt;h2 id=&#34;metatypes-within-toronto&#34;&gt;Metatypes within Toronto&lt;/h2&gt;
+&lt;p&gt;Human 56%
+Ork 22%
+Dwarf 8%
+Elf 9%
+Troll 4%
+Other 2%&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>/posts/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/introduction/</guid>
+      <description>Welcome to 2080s Toronto! Crown jewel of the North, the Core is the cultural capital of the UCAS and the beating heart of Toronto sprawl. Soaked in neon, blanketed in smog and branded to hell and back in AR, many will recognize the streets of the Core from its many appearances in trid and VR. The biggest biz in the sprawl happens here during the day and when the sun goes down, out comes the best nightlife east of Vegas.</description>
+      <content>&lt;h2 id=&#34;welcome-to-2080s-toronto&#34;&gt;Welcome to 2080s Toronto!&lt;/h2&gt;
+&lt;p&gt;Crown jewel of the North, the Core is the cultural capital of the &lt;a href=&#34;https://shadowrun.fandom.com/wiki/United_Canadian_and_American_States&#34;&gt;UCAS&lt;/a&gt; and the beating heart of Toronto sprawl. Soaked in neon, blanketed in smog and branded to hell and back in AR, many will recognize the streets of the Core from its many appearances in &lt;a href=&#34;https://shadowrun.fandom.com/wiki/Trideo&#34;&gt;trid&lt;/a&gt; and VR. The biggest biz in the sprawl happens here during the day and when the sun goes down, out comes the best nightlife east of Vegas.&lt;/p&gt;
+&lt;p&gt;During an altercation in the portlands, a space just east of The Core in 2074 between [[Law Enforcement#Argus Security]] and the &lt;a href=&#34;https://shadowrun.fandom.com/wiki/Awakened&#34;&gt;awakened&lt;/a&gt;, a catastrophic magic explosion occured, ripping apart both reality and the cyberspace in this area. An area of failed developments lies rotting, with abandoned vehicles, wrecks, and refuse from technological items that just ceased working one day. To this day, the &lt;a href=&#34;https://shadowrun.fandom.com/wiki/Matrix&#34;&gt;matrix&lt;/a&gt; is essentially inaccessable from this region, and devices that enter very quickly cease to function.&lt;/p&gt;
+&lt;p&gt;This has made it a perfect space for activites that would usually want for some separation from the pesky surveillance that is so ubiquitous. The reliance of the matrix in essentially everything from the most basic technological device, to most weaponry, vehicles, drones, communication devices, and essentially anything else a person might use to gain an advantage, has meant this area also allows for meetings to happen on a much more even playing field.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;That is where you will all start, a meeting has been set up for you by each of your &lt;a href=&#34;https://shadowrun.fandom.com/wiki/Fixer&#34;&gt;Fixers&lt;/a&gt;. There is a job on the table. It pays quite well. The details are quite sparse, but what you do know is that timing is tight, and it will be within the Core. You will find out more from the client.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;information-about-shadowrun&#34;&gt;Information about Shadowrun&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Set in the near(ish) future, Shadowrun as a setting and a game depicts a neon-filled, very cyberpunk, distopian future. Mix blade-runner with some fantasy elements (mainly extended races, monsters, etc.), and you are on the right track.&lt;/li&gt;
+&lt;li&gt;You play as &lt;code&gt;runners&lt;/code&gt;. The elite of the contracted criminal. When conflicts arise that cannot be solved by legal means, the corporations, governments, wealthy individuals, and even organized crime will subcontract their dirty work to you, someone who mostly goes unnoticed, or at least a deniable third party. &lt;a href=&#34;https://shadowrun.fandom.com/wiki/Shadowrunners&#34;&gt;read more -&amp;gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Its rules are fairly simple to hop into, but offer a lot of depth if you want to explore further. For the sake of this, I will be providing pre-made characters. If you are comfortable making your own character, and want to, I invite you to do so, but it is in no way expected.&lt;/li&gt;
+&lt;li&gt;It is a d6 based system. Whenever you have to make a roll, you consult your character sheet for the appropriate stat, grab that many d6s, and then roll them. You are looking for 5s and 6s. That&amp;rsquo;s all.&lt;/li&gt;
+&lt;li&gt;Feel free to peruse the documents linked here under &lt;a href=&#34;/setting&#34;&gt;Setting&lt;/a&gt; for more information about Toronto in the 2080s, or the links within &lt;a href=&#34;/resources&#34;&gt;Resources&lt;/a&gt; to find out more about the game. None of that is necessary though.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Law</title>
+      <link>/setting/law/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/setting/law/</guid>
+      <description>While law enforcement in Toronto is generally stricter than most other places in the UCAS, that isn’t really saying much. The city is divided up into zones with security graded on a scale from A to F. A grade security zones (the Business District in the Core, high income neighborhoods, etc.) are controlled by local security through checkpoints, patrolling officers and automated surveillance systems. At the other end of the spectrum, F grade areas have almost no static security measures and see police response times measured in hours or sometimes days.</description>
+      <content>&lt;p&gt;While law enforcement in Toronto is generally stricter than most other places in the UCAS, that isn’t really saying much. The city is divided up into zones with security graded on a scale from A to F. A grade security zones (the Business District in the Core, high income neighborhoods, etc.) are controlled by local security through checkpoints, patrolling officers and automated surveillance systems. At the other end of the spectrum, F grade areas have almost no static security measures and see police response times measured in hours or sometimes days.&lt;/p&gt;
+&lt;h2 id=&#34;argus-security&#34;&gt;Argus Security&lt;/h2&gt;
+&lt;p&gt;The main security contractor for the Toronto Metroplex is Argus Security. Efficient and businesslike, Argus does its best in areas where it knows shareholders and the &lt;a href=&#34;politics&#34;&gt;GTEC&lt;/a&gt; will be watching while it slacks off more in poorer areas. Some have accused the security contractor of violence and discrimination against Awakened, citing multiple incidents where Argus officers have used extreme, often lethal, force when dealing with magic users.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Politics</title>
+      <link>/setting/politics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/setting/politics/</guid>
+      <description>In 2031, the Toronto Metropolitan Consolidation Act was passed by the Ontario State Government and ratified by a majority of constituents, officially folding the surrounding regions of Peel, York, Durham, and Halton into the City of Toronto as districts. The City of Hamilton and the STAR City Arkoblock Complex were both added later.
+Each district is divided up into wards that each elect two members to serve on their district’s council.</description>
+      <content>&lt;p&gt;In 2031, the Toronto Metropolitan Consolidation Act was passed by the Ontario State Government and ratified by a majority of constituents, officially folding the surrounding regions of Peel, York, Durham, and Halton into the City of Toronto as districts. The City of Hamilton and the STAR City Arkoblock Complex were both added later.&lt;/p&gt;
+&lt;p&gt;Each district is divided up into wards that each elect two members to serve  on their district’s council. The members of each district council appoint  representatives to serve on the Greater Toronto Executive Council. The GTEC is comprised of 15 members (2 reps from each district plus a special representative appointed by the mayor of Toronto) and has ultimate executive authority over the sprawl.&lt;/p&gt;
+&lt;p&gt;The current Mayor of Toronto is Jordan Hodge, a staunch technocrat whose tax credits for small companies have kickstarted a vibrant startup culture in the city.&lt;/p&gt;
+&lt;p&gt;Toronto is also home to the Ontario state government.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Regions</title>
+      <link>/setting/regions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/setting/regions/</guid>
+      <description>The regions in the GTA, as of 2080</description>
+      <content>&lt;h2 id=&#34;the-core&#34;&gt;The Core&lt;/h2&gt;
+&lt;p&gt;Crown jewel of the North, the Core is the cultural capital of the UCAS and the beating heart of Toronto sprawl. Soaked in neon, blanketed in smog and branded to hell and back in AR, many will recognize the streets of the Core from its many appearances in trid and VR. The biggest biz in the sprawl happens here during the day and when the sun goes down, out comes the best nightlife east of Vegas.&lt;/p&gt;
+&lt;p&gt;In the Core, everything is about image and perception. Barbie docs and popup ‘trixprint cleaner shops are second only to managed AR fashion in the consumer services market here. The local elements of the GTEC spend more money trying to hide the last few meddlesome slums and maintaining their fanatical war against litter than they do on all other budget items combined.&lt;/p&gt;
+&lt;p&gt;Founded in 2031 the Rogerian Alchemical Research Institute is one of North America’s leading authorities on hermetic magic and the art of artificing. Built around a gothic revivalist mansion dating back to the early 20th century, FARI conducts research on practical applications of magic as well as the nature of mysterious 4th world artifacts unearthed up in the Canadian Shield. A number of the staff here are refugees from MIT&amp;amp;T and the Dunkelzahn Institute for Magical Research, both lost during the quarantine of Boston.&lt;/p&gt;
+&lt;p&gt;During an altercation in the portlands in 2074 between [[Law Enforcement#Argus Security]] and the awakened, a catastrophic magic explosion occured, ripping apart both reality and the cyberspace in this area. An area of failed developments lies rotting, with abandoned vehicles, wrecks, and refuse from technological items that just ceased working one day. To this day, the matrix is essentially inaccessable from this region, and devices that enter very quickly cease to function.&lt;/p&gt;
+&lt;h2 id=&#34;peel&#34;&gt;Peel&lt;/h2&gt;
+&lt;p&gt;1250 square kilometers of urban sprawl, Peel runs the gamut from high-cost condos near the lakeshore to working class neighborhoods in Mississauga and south Brampton to lawless barrens in the up towards Caledon. With a population of nearly 3 million people, many of Toronto’s working class call Peel home.&lt;/p&gt;
+&lt;p&gt;While the lakeside parts of Peel are quite nice, the further north you go, the more law and order start to break down. By the time you hit Main Street in Brampton, you’re firmly in ganger territory- utilities are barely existent outside of protected corp enclaves, and any semblance order is enforced by whatever petty warlord has managed to take over the block this month.&lt;/p&gt;
+&lt;p&gt;The result of one of Shiawase’s early, failed attempts at biohousing, the Red Forest is a stain on the eastern fringe of peel. Mostly composed of a genemodded strain of bamboo with distinctive red leaves that escaped its lab and proved resistant to every herbicide Shiawase scientists tried using to bring it back into containment, the forest is growing. Originally programmed to grow the frame for a simple three room house, as the bamboo spreads the programming has begun to break down, creating a labyrinth of half finished houses and insanely connected rooms in its wake. The bamboo was modified to be mildly toxic as a natural pesticide and many locals believe the forest is haunted- so its only inhabitants are a community of dwarves who are unbothered by the toxins.&lt;/p&gt;
+&lt;h2 id=&#34;york&#34;&gt;York&lt;/h2&gt;
+&lt;p&gt;North of the Core, York is host to Toronto’s blooming tech sector. Dozens of B and A rated corps scrabble for power here as the old guard watches from their archologies and skyrakers nearer downtown. Constant corporate backstabbing and intrigue make York prime running territory for those who can stomach working company contracts.&lt;/p&gt;
+&lt;p&gt;The district serves an important role in Toronto’s media industry. Easy access to the rest of the sprawl for on-location filming and a cheap real estate market a decade ago made the area a mecca for simsense and trid. Horizon has their regional offices here, and a number of smaller studios are churning out all manner of entertainment. The current rising star of the scene is Black Sun Sims, whose breakout hit, Elementary - A Study in Blood, cleaned up at the festivals last year.&lt;/p&gt;
+&lt;p&gt;York also has a darker side. The district was host to the Miracle Mile Metahuman Protection Camp, a UCAS operated internment camp that housed much of the region’s metahuman population before ‘39. The Miracle Mile is to this day a poorly served goblin ghetto. This may be due to change, though, as local property developers and startups begin eyeing the neighborhood’s cheap real estate market for gentrification.&lt;/p&gt;
+&lt;h2 id=&#34;durham&#34;&gt;Durham&lt;/h2&gt;
+&lt;p&gt;The industrial base of the sprawl, Durham is famous for its gruff, blue collar character and the constant drone of heavy industry that permeates the entire district. Factories in Durham produce at least one part for more than 40% of electronics and vehicles produced in North America, and its port sees over 100 million tonnes of cargo annually. Wuxing has taken interest in the district as a link in its global shipping logistics chains, as have Ares, who view the port as a vital way station between their Detroit headquarters and their overseas operations.&lt;/p&gt;
+&lt;p&gt;Apart from its industry, Durham is known for two things- the heavy presence of both private and national militaries near Durham Port, and the district’s legendary street racing scene. Hot drek riggers and razergirls riding the most glitzed out cars and bikes you’ll find outside of Miami are commonplace on side streets and abandoned sections of freeway. Every once and a while a group of racers will get cocky and make the ‘port run’, blazing through the heart of the Durham docklands with a good contingent of security drones and bemused soldiers not far behind.&lt;/p&gt;
+&lt;h2 id=&#34;halton&#34;&gt;Halton&lt;/h2&gt;
+&lt;p&gt;Where Peel is the home of Toronto’s poor and working class, Halton is where the wealthy go to sleep at night. Biodome enclosed communities and microarchologies dot the landscape between town centers trapped in time by the nostalgic and unaging well to do. Horizon has taken a particular interest in the district, using a number of Halton’s hold out lower class communities as petri dishes for social engineering and public works projects it hopes to roll out to client cities on a mass scale within the decade.&lt;/p&gt;
+&lt;p&gt;Along with its ridiculously high property value residential neighborhoods, Halton is known for being a hub of urban agriculture development in the UCAS. Aztechnology and Shiawase have invested heavily into ‘GroTowers’, vertical hydroponics systems the size of skyrakers. Some residents have complained about the eyesore the towers cause, but the complainers are almost exclusively those who can’t afford active AR editing, so the complaints fall on deaf ears.&lt;/p&gt;
+&lt;h2 id=&#34;hamilton&#34;&gt;Hamilton&lt;/h2&gt;
+&lt;p&gt;A district in transition, Hamilton is many things. Its iconic lakeside industrial zones grow with the tireless consumerism of the 6th World. Its urbanized uptown swells with capital brought in by simsense and nanotech startups and megacorporate ventures. Its suburbs are split, drifting towards both ghettoisation and gentrification as the unbridled and amoral hand of capitalism does its silent work. Hamilton is a microcosm of the shifting nature of the Toronto sprawl at large, and everyone is holding their breath to see what happens next.&lt;/p&gt;
+&lt;p&gt;The most distant district from the downtown Core, Hamilton existed as its own city until Crash 2.0 and a complete breakdown of the city’s electrical grid forced the city to cede temporary authority to the Greater Toronto Executive Council. While the order binding the smaller city to the sprawl was supposed to expire in 2066, it keeps getting pushed further and further down the agenda. Hamiltonians are still bitter about Toronto annexing their city, and the district is plagued by low level violence against both municipal buildings and government officials and contractors.&lt;/p&gt;
+&lt;h2 id=&#34;star-city&#34;&gt;STAR City&lt;/h2&gt;
+&lt;p&gt;An offshore arkoblock built by a collaboration between Shiawase, Proteus AG, and Horizon, STAR City serves as a resort destination for the world’s richest and a shining ivory tower off the coast for every other resident of Toronto to gaze at with envy. Security and PR are top priorities for the directors of the floating city, but even so a steady trickle of accidents, strange occurrences and worker fatalities manages to find its way back to the mainland.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
