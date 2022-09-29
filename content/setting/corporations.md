@@ -9,7 +9,7 @@ summary: "Corporations are incredibly strong entites in Shadowrun, the most powe
 ## Ares
 With their global headquarters in nearby Detroit, Toronto and its access to the Saint Lawrence is a valuable logistics asset for Ares. From their North American Distribution Facility in the Core, Ares’ Toronto operation coordinates the defense giant’s shipping operations across the western hemisphere. The local ops director, Felicia Koritz, has aligned herself with Arthur Vogel’s faction within the splintering mega, causing a great deal of strife between Toronto and Damien Knight’s stronghold in Detroit. 
 
-Ares’s private security firm Knight Errant held the Toronto police contract from 2058 to 2070. Knight Errant continues to operate a cybernetics proving ground in [Durham](regions.md).
+Ares’s private security firm Knight Errant held the Toronto police contract from 2058 to 2070. Knight Errant continues to operate a cybernetics proving ground in [Durham](regions).
 
 ## Aztechnology
 Bandwagoning onto Shiawase’s Urban Ag initiative, Aztechnology’s presence in Toronto is most felt through their aggressive investing and buyouts of biotech startups and their construction of GroTowers across the northwest fringes of the sprawl. Aztech subsidiaries are also heavily involved in the city’s media business and low income housing developments in Peel and West York.
